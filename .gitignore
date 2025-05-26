@@ -3,6 +3,7 @@
 node_modules
 *.lock
 .idea/
+../.idea/
 coverage
 benchmarks
 vercel_token
